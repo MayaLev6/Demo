@@ -1,0 +1,15 @@
+body{
+    background-color: hwb(180 94% 0%);
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 90px;
+    color: rgb(149, 200, 200);
+}
+
+img{
+    border-radius: 50px;
+}
